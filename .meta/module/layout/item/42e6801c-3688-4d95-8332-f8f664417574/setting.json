@@ -1,0 +1,65 @@
+{
+  "data": {
+    "md5": "b674e5a4d2b8882b38b50781a082e3b0",
+    "path": "asset/GUI/Shop/ShopButton.layout",
+    "root": {
+      "children": [
+        {
+          "__OBJ_TYPE": "Button",
+          "anchor": {
+            "HorizontalAlignment": "Centre",
+            "VerticalAlignment": "Centre"
+          },
+          "Font_size": 30,
+          "id": {
+            "value": "3ef814c6-f16f-4051-8bb1-33de12bf35a1"
+          },
+          "name": "Open",
+          "pos": {
+            "UDim_X": {
+              "Offect": -2.4739415645614
+            },
+            "UDim_Y": {
+              "Offect": 8.1062320997916e-06
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 145.6939133592
+            },
+            "UDim_Y": {
+              "Offect": 104.04303395748
+            }
+          },
+          "Text": "Shop"
+        }
+      ],
+      "id": {
+        "value": "f09aa9b9-f2e1-4da3-988d-f5983ec105d0"
+      },
+      "pos": {
+        "UDim_X": {
+          "Offect": 1145.6679471959
+        },
+        "UDim_Y": {
+          "Offect": 196.14620208746
+        }
+      },
+      "size": {
+        "UDim_X": {
+          "Offect": 144.07843415766
+        },
+        "UDim_Y": {
+          "Offect": 99.069777011772
+        }
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "b674e5a4d2b8882b38b50781a082e3b0",
+      "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
+    },
+    "VERSION": "0.22"
+  }
+}

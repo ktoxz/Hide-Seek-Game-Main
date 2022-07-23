@@ -1,0 +1,40 @@
+{
+  "data": {
+    "_serverScript": [
+      {
+        "path": "server/wardrobe"
+      }
+    ],
+    "actorName": {
+      "asset": "asset/map_tron_tim/b3s.actor"
+    },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "boundingVolume": {
+      "height": 1.8,
+      "height_c": 1.8,
+      "radius": 0.45,
+      "radius_c": 0.45
+    },
+    "canClick": true,
+    "collision": true,
+    "girlactor": {
+      "asset": "asset/map_tron_tim/b3s.actor"
+    },
+    "hideName": true,
+    "name": {
+      "value": "0174afa4-bec1-4c1d-9010-1f9275060914"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "9b6018b3f556b5fd8c5da7d3c09c66b2",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

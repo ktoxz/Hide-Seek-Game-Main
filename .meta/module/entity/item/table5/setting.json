@@ -1,0 +1,47 @@
+{
+  "data": {
+    "_clientScript": [
+      {
+        "path": "client/openPicker"
+      }
+    ],
+    "_serverScript": [
+      {
+        "path": "server/table"
+      }
+    ],
+    "actorName": {
+      "asset": "asset/map_tron_tim/b32s.actor"
+    },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "autoMove": true,
+    "boundingVolume": {
+      "height": 0.9,
+      "height_c": 0.9,
+      "radius": 0.45,
+      "radius_c": 0.45,
+      "type": "Cylinder"
+    },
+    "canClick": true,
+    "collision": true,
+    "girlactor": {
+      "asset": "asset/map_tron_tim/b32s.actor"
+    },
+    "hideName": true,
+    "name": {
+      "value": "3fcbe1d3-64b5-493d-94ee-adc77886c397"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "ec7e4a26bd6c62a11fc7bd576416ff63",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

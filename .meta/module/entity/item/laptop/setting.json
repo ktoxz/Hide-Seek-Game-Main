@@ -1,0 +1,45 @@
+{
+  "data": {
+    "_clientScript": [
+      {
+        "path": "client/openPicker"
+      }
+    ],
+    "_serverScript": [
+      {
+        "path": "server/laptop"
+      }
+    ],
+    "actorName": {
+      "asset": "asset/map_tron_tim/b4s.actor"
+    },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "boundingVolume": {
+      "height": 1.8,
+      "height_c": 1.8,
+      "radius": 0.45,
+      "radius_c": 0.45
+    },
+    "canClick": true,
+    "collision": true,
+    "girlactor": {
+      "asset": "asset/map_tron_tim/b4s.actor"
+    },
+    "hideName": true,
+    "name": {
+      "value": "f131779f-7ba8-494e-bbb8-dbf650e9565a"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "9fb1356a2e0b8c426f4411503dad5694",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

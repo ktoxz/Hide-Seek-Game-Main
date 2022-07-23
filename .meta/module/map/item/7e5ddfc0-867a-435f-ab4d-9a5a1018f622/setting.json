@@ -1,0 +1,74 @@
+{
+  "data": {
+    "box": {
+      "base": {
+        "__OBJ_TYPE": "SkyBoxStatic"
+      }
+    },
+    "instances": [
+      {
+        "__OBJ_TYPE": "Instance_VoxelTerrain",
+        "id": "8715740592418881537"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Light",
+        "id": "8715740592478978049",
+        "ID": 3,
+        "lightType": "GlobalLight",
+        "name": "EnvironmentLight"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Light",
+        "id": "8715740592539271169",
+        "ID": 4,
+        "lightType": "DirectionalLight",
+        "name": "DirectionalLight",
+        "position": {
+          "y": 5
+        },
+        "rotation": {
+          "y": -90
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_MeshPart",
+        "btsKey": "80054387-c0cf-4be6-bddf-c1b0791db583",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8715745935373664257",
+        "massCenter": {
+          "x": 1.8189997673035,
+          "y": 8.083517074585,
+          "z": -8.3170003890991
+        },
+        "mesh": "asset/trang tri 1/maysinhto2.mesh",
+        "mesh_selector": {
+          "asset": "asset/trang tri 1/maysinhto2.mesh",
+          "selector": "asset/trang tri 1/maysinhto2.mesh"
+        },
+        "name": "maysinhto2.mesh",
+        "position": {
+          "x": 1.8189997673035,
+          "y": 8.083517074585,
+          "z": -8.3170003890991
+        },
+        "restitution": 0.3,
+        "size": {
+          "x": 23.843425750732,
+          "y": 14.167227745056,
+          "z": 25.99108505249
+        }
+      }
+    ],
+    "name": {
+      "value": "map_7e5ddfc0-867a-435f-ab4d-9a5a1018f622"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "DataSet": [],
+      "setting.json": "6212077e7d0a1055c2d039229e1e630f"
+    },
+    "VERSION": "0.22"
+  }
+}

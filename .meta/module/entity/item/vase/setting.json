@@ -1,0 +1,40 @@
+{
+  "data": {
+    "_serverScript": [
+      {
+        "path": "server/vase"
+      }
+    ],
+    "actorName": {
+      "asset": "asset/map_tron_tim/b2s.actor"
+    },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "boundingVolume": {
+      "height": 1.8,
+      "height_c": 1.8,
+      "radius": 0.45,
+      "radius_c": 0.45
+    },
+    "canClick": true,
+    "collision": true,
+    "girlactor": {
+      "asset": "asset/map_tron_tim/b2s.actor"
+    },
+    "hideName": true,
+    "name": {
+      "value": "f86395d5-20f2-4b2d-8ac4-4b2d019d30de"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "bf2b31f98ee938d500dadf439428ba3a",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

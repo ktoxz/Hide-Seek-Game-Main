@@ -1,0 +1,107 @@
+{
+  "data": {
+    "box": {
+      "base": {
+        "__OBJ_TYPE": "SkyBoxStatic"
+      }
+    },
+    "instances": [
+      {
+        "__OBJ_TYPE": "Instance_VoxelTerrain",
+        "id": "8721190820636082177"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Light",
+        "id": "8721190820726112257",
+        "ID": 5,
+        "lightType": "GlobalLight",
+        "name": "EnvironmentLight"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Light",
+        "id": "8721190820831543297",
+        "ID": 6,
+        "lightType": "DirectionalLight",
+        "name": "DirectionalLight",
+        "position": {
+          "y": 5
+        },
+        "rotation": {
+          "y": -90
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "btsKey": "27a3f505-029c-43e5-8d16-a985d7f7a8d8",
+        "density": 1.26,
+        "friction": 0.28,
+        "id": "8724247742135992321",
+        "massCenter": {
+          "x": 11.893385887146,
+          "y": 7.4074006080627,
+          "z": -3.9792566299438
+        },
+        "material": {
+          "texture": "part_mutou.tga"
+        },
+        "position": {
+          "x": 11.893385887146,
+          "y": 7.4074006080627,
+          "z": -3.9792566299438
+        },
+        "restitution": 0.15,
+        "scale": {
+          "x": 0.148992,
+          "y": 12.8329,
+          "z": 22.0008
+        },
+        "size": {
+          "x": 0.14899182319641,
+          "y": 12.832927703857,
+          "z": 22.000787734985
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "btsKey": "32bf8fe7-9e1a-4da8-9df7-c2f3a843c3ff",
+        "density": 3.4,
+        "friction": 0.4,
+        "id": "8724248099514941441",
+        "massCenter": {
+          "x": 2.9085001945496,
+          "y": 1.0578981637955,
+          "z": -4.0960001945496
+        },
+        "material": {
+          "texture": "part_shatu.tga"
+        },
+        "position": {
+          "x": 2.9085001945496,
+          "y": 1.0578981637955,
+          "z": -4.0960001945496
+        },
+        "restitution": 0.06,
+        "scale": {
+          "x": 17.9377,
+          "y": 0.11599,
+          "z": 21.8037
+        },
+        "size": {
+          "x": 17.937740325928,
+          "y": 0.11598978936672,
+          "z": 21.803680419922
+        }
+      }
+    ],
+    "name": {
+      "value": "map_87884dad-67c4-40c9-bbaa-d12537f05656"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "DataSet": [],
+      "setting.json": "3e8d640a60a1a47bdc9ed41966e32ee1"
+    },
+    "VERSION": "0.22"
+  }
+}

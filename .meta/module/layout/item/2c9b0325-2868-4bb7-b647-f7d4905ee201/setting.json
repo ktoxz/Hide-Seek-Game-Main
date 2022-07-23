@@ -1,0 +1,119 @@
+{
+  "data": {
+    "md5": "d6d9ab9b77438609c0868ef742193cd7",
+    "path": "asset/GUI/SpectateView/SpectateView.layout",
+    "root": {
+      "children": [
+        {
+          "__OBJ_TYPE": "StaticText",
+          "anchor": {
+            "HorizontalAlignment": "Centre"
+          },
+          "Font_size": 30,
+          "HorzFormatting": "CentreAligned",
+          "id": {
+            "value": "af838b54-934f-4b25-a3fb-7bbb74efaa0d"
+          },
+          "name": "Name",
+          "pos": {
+            "UDim_X": {
+              "Offect": -0.7639620277277
+            },
+            "UDim_Y": {
+              "Offect": 102.51656062399
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 763.04199981693
+            }
+          },
+          "Text": "Currently watching name"
+        },
+        {
+          "__OBJ_TYPE": "Button",
+          "anchor": {
+            "HorizontalAlignment": "Right",
+            "VerticalAlignment": "Bottom"
+          },
+          "Font_size": 72,
+          "id": {
+            "value": "747ea66e-fe53-4394-bfae-8777ea8c1092"
+          },
+          "name": "Next",
+          "pos": {
+            "UDim_X": {
+              "Offect": -117.97026133015
+            },
+            "UDim_Y": {
+              "Offect": -88.496678551313
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 143.76583623887
+            },
+            "UDim_Y": {
+              "Offect": 123.23829221726
+            }
+          },
+          "Text": ">"
+        },
+        {
+          "__OBJ_TYPE": "Button",
+          "anchor": {
+            "VerticalAlignment": "Bottom"
+          },
+          "Font_size": 72,
+          "id": {
+            "value": "aba8ca5d-f287-491a-8de9-5d35e57e31ef"
+          },
+          "name": "Prev",
+          "pos": {
+            "UDim_X": {
+              "Offect": 116.76205939503
+            },
+            "UDim_Y": {
+              "Offect": -88.496711999428
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 143.76583623887
+            },
+            "UDim_Y": {
+              "Offect": 123.23829221726
+            }
+          },
+          "Text": "<"
+        }
+      ],
+      "id": {
+        "value": "0531a185-70bd-466b-9a4b-10568e3744e6"
+      },
+      "pos": {
+        "UDim_X": {
+          "Offect": -4.7657992839813
+        },
+        "UDim_Y": {
+          "Offect": 2.0028423364238e-13
+        }
+      },
+      "size": {
+        "UDim_X": {
+          "Offect": 1288.8215663436
+        },
+        "UDim_Y": {
+          "Offect": 724.37085676188
+        }
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "d6d9ab9b77438609c0868ef742193cd7",
+      "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
+    },
+    "VERSION": "0.22"
+  }
+}

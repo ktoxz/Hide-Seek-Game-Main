@@ -1,0 +1,40 @@
+{
+  "data": {
+    "_serverScript": [
+      {
+        "path": "server/chair1"
+      }
+    ],
+    "actorName": {
+      "asset": "asset/map_tron_tim/b20s.actor"
+    },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "boundingVolume": {
+      "height": 1.8,
+      "height_c": 1.8,
+      "radius": 0.45,
+      "radius_c": 0.45
+    },
+    "canClick": true,
+    "collision": true,
+    "girlactor": {
+      "asset": "asset/map_tron_tim/b20s.actor"
+    },
+    "hideName": true,
+    "name": {
+      "value": "4201ae82-b710-4325-9be1-a3f92f0406a4"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "b1b5dc17e52a803fca4c1e4143c4755d",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

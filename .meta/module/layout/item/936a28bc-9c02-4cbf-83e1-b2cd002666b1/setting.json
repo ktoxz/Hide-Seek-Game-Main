@@ -1,0 +1,82 @@
+{
+  "data": {
+    "md5": "7dd613aa7b3db6bb1fbb674617314617",
+    "path": "asset/GUI/Announce/Announce.layout",
+    "root": {
+      "children": [
+        {
+          "__OBJ_TYPE": "VerticalLayoutContainer",
+          "Alpha": 0.997,
+          "children": [
+            {
+              "__OBJ_TYPE": "StaticText",
+              "AutoScale": "3",
+              "Font_size": 25,
+              "id": {
+                "value": "87feccee-fdd5-4165-b6a3-226fea54b70f"
+              },
+              "name": "Announce",
+              "size": {
+                "UDim_X": {
+                  "Offect": 330
+                },
+                "UDim_Y": {
+                  "Offect": 43.613
+                }
+              },
+              "Text": "Enter announce here    ",
+              "word_warpped": false
+            }
+          ],
+          "id": {
+            "value": "a65485cc-255d-4f42-8cf4-493134d38c8b"
+          },
+          "name": "AnnounceLine",
+          "pos": {
+            "UDim_X": {
+              "Offect": -360
+            },
+            "UDim_Y": {
+              "Offect": -2.1457672003677e-06
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 330
+            },
+            "UDim_Y": {
+              "Offect": 44
+            }
+          },
+          "space": 1
+        }
+      ],
+      "id": {
+        "value": "7e6472f9-307b-4843-b72e-ba1edc355b61"
+      },
+      "pos": {
+        "UDim_X": {
+          "Offect": 1181.5448665626
+        },
+        "UDim_Y": {
+          "Offect": 100.46510910988
+        }
+      },
+      "size": {
+        "UDim_X": {
+          "Offect": 2.9626083373404
+        },
+        "UDim_Y": {
+          "Offect": 8.17329025272
+        }
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "7dd613aa7b3db6bb1fbb674617314617",
+      "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
+    },
+    "VERSION": "0.22"
+  }
+}

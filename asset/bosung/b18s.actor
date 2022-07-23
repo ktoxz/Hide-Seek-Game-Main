@@ -1,0 +1,11 @@
+<ActorTemplates>
+    <ActorTemplate name="b18s.actor" Originalscale="1 1 1" Skeleton="asset/bosung/b18s.skel" AttackScale="1" TextHeight="0" IsShowShadow="true" WoundBone="" WoundAngle="25" SelectedRingSize="1" SoundName1="" SoundName2="" SoundName3="" SoundName4="" SoundName5="" SoundFileNum="0" Volume="0.8" MinDistance="1" MaxDistance="16" IntervalTime="2" Alpha="1" ThreadPriority="0">
+        <BodyParts>
+            <BodyPart MasterName="mutex_name0" SlaveName="group0" DefaultUse="true" EdgeColor="1 1 1 1" ColorParams="1 1 1 1">
+                <Skin MeshName="asset/bosung/b18.skin" ChangeColor="0 0 0" UVSpeed="0 0"/>
+            </BodyPart>
+        </BodyParts>
+        <Skills/>
+        <Anims/>
+    </ActorTemplate>
+</ActorTemplates>

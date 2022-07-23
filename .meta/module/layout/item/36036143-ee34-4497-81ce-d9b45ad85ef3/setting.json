@@ -1,0 +1,68 @@
+{
+  "data": {
+    "md5": "db455ff48ac7a24a25aaa997e7e64339",
+    "path": "asset/GUI/LobbyUI/ChooseMapButton.layout",
+    "root": {
+      "anchor": {
+        "VerticalAlignment": "Centre"
+      },
+      "children": [
+        {
+          "__OBJ_TYPE": "Button",
+          "anchor": {
+            "HorizontalAlignment": "Centre",
+            "VerticalAlignment": "Centre"
+          },
+          "Font_size": 50,
+          "id": {
+            "value": "3faf2c6b-ebc2-4c16-8bcf-504667c6a500"
+          },
+          "name": "Open",
+          "pos": {
+            "UDim_X": {
+              "Offect": -0.8086018562174
+            },
+            "UDim_Y": {
+              "Offect": 1.4357208600213e-05
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 72.22407054901
+            },
+            "UDim_Y": {
+              "Offect": 115.6756978035
+            }
+          },
+          "Text": "<-"
+        }
+      ],
+      "id": {
+        "value": "55d97f3f-ad5a-44e8-9c85-8ec36087e1a3"
+      },
+      "pos": {
+        "UDim_X": {
+          "Offect": 1210.5129692574
+        },
+        "UDim_Y": {
+          "Offect": 23.841127671858
+        }
+      },
+      "size": {
+        "UDim_X": {
+          "Offect": 75.9267630581
+        },
+        "UDim_Y": {
+          "Offect": 116.42209206829
+        }
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "db455ff48ac7a24a25aaa997e7e64339",
+      "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
+    },
+    "VERSION": "0.22"
+  }
+}

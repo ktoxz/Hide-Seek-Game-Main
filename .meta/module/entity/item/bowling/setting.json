@@ -1,0 +1,40 @@
+{
+  "data": {
+    "_serverScript": [
+      {
+        "path": "server/bowling"
+      }
+    ],
+    "actorName": {
+      "asset": "asset/map_tron_tim/b7s.actor"
+    },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "boundingVolume": {
+      "height": 1.8,
+      "height_c": 1.8,
+      "radius": 0.45,
+      "radius_c": 0.45
+    },
+    "canClick": true,
+    "collision": true,
+    "girlactor": {
+      "asset": "asset/map_tron_tim/b7s.actor"
+    },
+    "hideName": true,
+    "name": {
+      "value": "efcba2f5-cbb1-425d-bf36-de7134f31738"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "fd9da74442cfb6a331593660a3bf6f9c",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

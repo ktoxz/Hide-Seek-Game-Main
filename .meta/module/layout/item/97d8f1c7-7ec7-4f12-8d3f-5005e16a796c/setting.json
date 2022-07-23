@@ -1,0 +1,26 @@
+{
+  "data": {
+    "md5": "8380699d6d0200d37ae921464a10d2cd",
+    "path": "asset/GUI/Shop/ShopReward.layout",
+    "root": {
+      "id": {
+        "value": "2a71667a-2c69-4a84-b3e9-01c569068842"
+      },
+      "pos": {
+        "UDim_X": {
+          "Offect": 66.97015047072
+        },
+        "UDim_Y": {
+          "Offect": 59.800666809085
+        }
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "8380699d6d0200d37ae921464a10d2cd",
+      "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
+    },
+    "VERSION": "0.22"
+  }
+}

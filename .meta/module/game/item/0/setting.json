@@ -1,0 +1,134 @@
+{
+  "data": {
+    "enableNewLighting": true,
+    "fixed_viewPos": {
+      "pos": {
+        "__OBJ_TYPE": "Vector3i"
+      }
+    },
+    "initPos": {
+      "map": "87884dad-67c4-40c9-bbaa-d12537f05656",
+      "pos": {
+        "x": 9.422,
+        "y": 1.381,
+        "z": -13.056
+      }
+    },
+    "needSave": true,
+    "nowTime": {
+      "h": 7,
+      "m": 40
+    },
+    "player_range": {
+      "max": 10,
+      "min": 1
+    },
+    "startPos": {
+      "map": "87884dad-67c4-40c9-bbaa-d12537f05656",
+      "pos": {
+        "x": 9.2269945144653,
+        "y": 1.3809056663513,
+        "z": 2.540500164032
+      }
+    },
+    "team": {
+      "team": [
+        {
+          "image": {
+            "selector": "editor/Hide-Seek-Game-main/asset/Texture/Team/flag/flag_1.png"
+          },
+          "initPos": {
+            "map": "87884dad-67c4-40c9-bbaa-d12537f05656",
+            "pos": {
+              "x": 9.422,
+              "y": 1.381,
+              "z": -13.056
+            }
+          },
+          "name": "hider",
+          "startPos": {
+            "map": "87884dad-67c4-40c9-bbaa-d12537f05656",
+            "pos": {
+              "x": 9.2269945144653,
+              "y": 1.3809056663513,
+              "z": 2.540500164032
+            }
+          }
+        },
+        {
+          "id": 2,
+          "image": {
+            "asset": "asset/Texture/Team/flag/flag_2.png",
+            "selector": "editor/Hide-Seek-Game-main/asset/Texture/Team/flag/flag_2.png"
+          },
+          "initPos": {
+            "map": "87884dad-67c4-40c9-bbaa-d12537f05656",
+            "pos": {
+              "x": 9.422,
+              "y": 1.381,
+              "z": -13.056
+            }
+          },
+          "name": "seeker",
+          "startPos": {
+            "map": "87884dad-67c4-40c9-bbaa-d12537f05656",
+            "pos": {
+              "x": 9.2269945144653,
+              "y": 1.3809056663513,
+              "z": 2.540500164032
+            }
+          }
+        }
+      ]
+    },
+    "unlimitedPlayTime": true,
+    "vars": {
+      "global": [
+        {
+          "key": "mapVote",
+          "struct_type": "array",
+          "value": {
+            "__OBJ_TYPE": "T_IntArray",
+            "rawval": [
+              0,
+              0,
+              0
+            ]
+          }
+        },
+        {
+          "key": "av",
+          "run_type": "client"
+        }
+      ],
+      "ui": [
+        {
+          "key": "mapVote",
+          "run_type": "client",
+          "save": true,
+          "struct_type": "array",
+          "value": {
+            "__OBJ_TYPE": "T_IntArray",
+            "rawval": [
+              0,
+              0,
+              0
+            ]
+          }
+        }
+      ]
+    },
+    "waitGoTime": {
+      "value": 20
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "722e71a4ada33773b5b6e8d29ee29a0a",
+      "shop.csv": "393e9a440b900b5690986ec2b0e57be5",
+      "triggers.bts": "",
+      "triggers_client.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": {
+    "_serverScript": [
+      {
+        "path": "server/TreeWithLittleLeaves"
+      }
+    ],
+    "actorName": {
+      "asset": "asset/map_tron_tim/b10s.actor"
+    },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "boundingVolume": {
+      "height": 1.8,
+      "height_c": 1.8,
+      "radius": 0.45,
+      "radius_c": 0.45
+    },
+    "canClick": true,
+    "collision": true,
+    "girlactor": {
+      "asset": "asset/map_tron_tim/b10s.actor"
+    },
+    "hideName": true,
+    "name": {
+      "value": "1eb8340f-a64e-48e9-a75e-aa2f5df94990"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "7b06b92ff6c43ae305c7eab115372b00",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

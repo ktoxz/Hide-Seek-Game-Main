@@ -1,0 +1,34 @@
+{
+  "data": {
+    "_serverScript": [
+      {
+        "path": "server/pcCase"
+      }
+    ],
+    "actorName": {
+      "asset": "asset/map_tron_tim/b15s.actor"
+    },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "canClick": true,
+    "collision": true,
+    "girlactor": {
+      "asset": "asset/map_tron_tim/b15s.actor"
+    },
+    "hideName": true,
+    "name": {
+      "value": "4ac3e69f-49f0-4d1b-b15b-20728fb92717"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "ff1b0aebd12bd35293aac102c055b55b",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

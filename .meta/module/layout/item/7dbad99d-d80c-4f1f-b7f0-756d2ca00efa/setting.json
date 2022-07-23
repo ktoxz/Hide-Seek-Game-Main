@@ -1,0 +1,68 @@
+{
+  "data": {
+    "md5": "d5dbf36639f709a038d686c2bd88ff53",
+    "path": "asset/GUI/LockCam/lockCam.layout",
+    "root": {
+      "anchor": {
+        "HorizontalAlignment": "Right",
+        "VerticalAlignment": "Bottom"
+      },
+      "children": [
+        {
+          "__OBJ_TYPE": "Button",
+          "anchor": {
+            "HorizontalAlignment": "Centre",
+            "VerticalAlignment": "Centre"
+          },
+          "Font_size": 16,
+          "id": {
+            "value": "b84fea05-e28b-498c-980b-d14df914c19b"
+          },
+          "name": "LockCam",
+          "pos": {
+            "UDim_X": {
+              "Offect": -0.765772038683
+            },
+            "UDim_Y": {
+              "Offect": 0.23181236024661
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 163.37812137603
+            },
+            "UDim_Y": {
+              "Offect": 73.013266086574
+            }
+          },
+          "Text": "Lock Camera"
+        }
+      ],
+      "id": {
+        "value": "db47d927-a3d4-4491-b938-65287dab6692"
+      },
+      "pos": {
+        "UDim_X": {
+          "Offect": -95.587403294732
+        },
+        "UDim_Y": {
+          "Offect": -292.92051721592
+        }
+      },
+      "size": {
+        "UDim_X": {
+          "Offect": 161.33457016946
+        },
+        "UDim_Y": {
+          "Offect": 69.68216538431
+        }
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "d5dbf36639f709a038d686c2bd88ff53"
+    },
+    "VERSION": "0.22"
+  }
+}

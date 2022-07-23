@@ -1,0 +1,21 @@
+{
+  "canAbandon": false,
+  "candrop": false,
+  "canEquipPlural": true,
+  "canUse": false,
+  "dropSpeed": 0.2,
+  "equip_skill": [],
+  "equip_skin": {
+    "": ""
+  },
+  "icon": "",
+  "itemname": "item_f33360d1-5a9e-4e47-ba37-c0e6539b8df1",
+  "needSave": false,
+  "stack_count_max": 1,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false,
+  "tray": []
+}

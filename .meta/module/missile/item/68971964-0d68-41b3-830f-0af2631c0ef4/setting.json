@@ -1,0 +1,23 @@
+{
+  "data": {
+    "boundingVolume": {
+      "height": 1.8,
+      "height_c": 1.8,
+      "radius": 0.45,
+      "radius_c": 0.45
+    },
+    "missileModel": {
+      "type": "mesh"
+    },
+    "name": {
+      "value": "missile_68971964-0d68-41b3-830f-0af2631c0ef4"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "5d1854851509484581ba14f8a65e9ff6",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "data": {
+    "md5": "c89b8350d60442dc368d08e7f67bc0e6",
+    "path": "asset/GUI/Shop/ShopPack.layout",
+    "root": {
+      "children": [
+        {
+          "__OBJ_TYPE": "DefaultWindow",
+          "anchor": {
+            "HorizontalAlignment": "Centre",
+            "VerticalAlignment": "Centre"
+          },
+          "children": [
+            {
+              "__OBJ_TYPE": "StaticImage",
+              "anchor": {
+                "HorizontalAlignment": "Centre",
+                "VerticalAlignment": "Centre"
+              },
+              "id": {
+                "value": "b6b50a53-2b86-4c52-84d1-92db6780bba4"
+              },
+              "name": "BackgroundImg",
+              "pos": {
+                "UDim_X": {
+                  "Offect": 0.3917839527182
+                },
+                "UDim_Y": {
+                  "Offect": -0.8919948232553
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 1135.4623338879
+                },
+                "UDim_Y": {
+                  "Offect": 614.44096243389
+                }
+              },
+              "Visible": false
+            },
+            {
+              "__OBJ_TYPE": "Button",
+              "Font_size": 30,
+              "id": {
+                "value": "f77888e1-3061-43d7-9c33-e8ca73b65f63"
+              },
+              "name": "Packs",
+              "pos": {
+                "UDim_X": {
+                  "Offect": -55.011173248292
+                },
+                "UDim_Y": {
+                  "Offect": 131.56146526336
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 131.87688970565
+                },
+                "UDim_Y": {
+                  "Offect": 58.312234401702
+                }
+              },
+              "Text": "Packs"
+            },
+            {
+              "__OBJ_TYPE": "Button",
+              "Font_size": 30,
+              "id": {
+                "value": "562313e2-bbab-47f4-b2fb-507c24fdef37"
+              },
+              "name": "Close",
+              "pos": {
+                "UDim_X": {
+                  "Offect": -39.464555501936
+                },
+                "UDim_Y": {
+                  "Offect": -26.029583454143
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 92.142531156508
+                },
+                "UDim_Y": {
+                  "Offect": 82.068265199662
+                }
+              },
+              "Text": "X"
+            },
+            {
+              "__OBJ_TYPE": "Button",
+              "Font_size": 30,
+              "id": {
+                "value": "1dcdb3d0-a7cd-4c20-b25d-cd489e6e1d45"
+              },
+              "name": "Gacha",
+              "pos": {
+                "UDim_X": {
+                  "Offect": -55.011169672011
+                },
+                "UDim_Y": {
+                  "Offect": 272.17045855529
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 131.87688970565
+                },
+                "UDim_Y": {
+                  "Offect": 58.312234401702
+                }
+              },
+              "Text": "Gacha"
+            },
+            {
+              "__OBJ_TYPE": "ActorWindow",
+              "ActorName": {
+                "asset": "asset/Actor/charactor/charactor_boy/character_boy.actor"
+              },
+              "ActorScale": 1.6,
+              "anchor": {
+                "VerticalAlignment": "Centre"
+              },
+              "children": [
+                {
+                  "__OBJ_TYPE": "Button",
+                  "anchor": {
+                    "HorizontalAlignment": "Centre",
+                    "VerticalAlignment": "Bottom"
+                  },
+                  "Font_size": 30,
+                  "id": {
+                    "value": "d3619a01-d9a5-4375-8239-edc7031bd4b0"
+                  },
+                  "pos": {
+                    "UDim_X": {
+                      "Offect": 0.447767799339
+                    },
+                    "UDim_Y": {
+                      "Offect": 84.026573137582
+                    }
+                  },
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 168.51494193078
+                    },
+                    "UDim_Y": {
+                      "Offect": 71.588002920149
+                    }
+                  },
+                  "Text": "Mua"
+                }
+              ],
+              "id": {
+                "value": "26982be3-07ff-439b-bf2a-ec000edf2ef5"
+              },
+              "name": "ActorReview",
+              "pos": {
+                "UDim_X": {
+                  "Offect": 76.537322375312
+                },
+                "UDim_Y": {
+                  "Offect": -5.0415078783962
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 323.17694044111
+                },
+                "UDim_Y": {
+                  "Offect": 408.10563278198
+                }
+              }
+            },
+            {
+              "__OBJ_TYPE": "ScrollableView",
+              "anchor": {
+                "HorizontalAlignment": "Right",
+                "VerticalAlignment": "Centre"
+              },
+              "children": [
+                {
+                  "__OBJ_TYPE": "GridView",
+                  "children": [
+                    {
+                      "__OBJ_TYPE": "StaticImage",
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "Button",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre",
+                            "VerticalAlignment": "Bottom"
+                          },
+                          "Font_size": 16,
+                          "id": {
+                            "value": "5c89e310-8c06-4ac0-bb76-d814dd1ad18b"
+                          },
+                          "pos": {
+                            "UDim_X": {
+                              "Offect": -0.3395424992294
+                            },
+                            "UDim_Y": {
+                              "Offect": 40.578052867696
+                            }
+                          },
+                          "Text": "Chon"
+                        }
+                      ],
+                      "id": {
+                        "value": "179c3e96-04a0-4382-93cd-2f62c7cf399b"
+                      },
+                      "name": "PackA",
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 240
+                        },
+                        "UDim_Y": {
+                          "Offect": 240
+                        }
+                      }
+                    },
+                    {
+                      "__OBJ_TYPE": "StaticImage",
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "Button",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre",
+                            "VerticalAlignment": "Bottom"
+                          },
+                          "Font_size": 16,
+                          "id": {
+                            "value": "a44d13db-b217-4356-a6a0-477c2a14249a"
+                          },
+                          "pos": {
+                            "UDim_X": {
+                              "Offect": -0.3395424992294
+                            },
+                            "UDim_Y": {
+                              "Offect": 39.006607164189
+                            }
+                          },
+                          "Text": "Chon"
+                        }
+                      ],
+                      "id": {
+                        "value": "4a377a8a-998f-4748-ab89-d83c88a472a7"
+                      },
+                      "name": "PackA1",
+                      "pos": {
+                        "UDim_X": {
+                          "Offect": 250
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 178.22750067709
+                        },
+                        "UDim_Y": {
+                          "Offect": 178.23244953151
+                        }
+                      }
+                    },
+                    {
+                      "__OBJ_TYPE": "StaticImage",
+                      "children": [
+                        {
+                          "__OBJ_TYPE": "Button",
+                          "anchor": {
+                            "HorizontalAlignment": "Centre",
+                            "VerticalAlignment": "Bottom"
+                          },
+                          "Font_size": 16,
+                          "id": {
+                            "value": "aa041674-ad6b-4489-9a91-a8096d77bf30"
+                          },
+                          "pos": {
+                            "UDim_X": {
+                              "Offect": -0.3395424992294
+                            },
+                            "UDim_Y": {
+                              "Offect": 39.006607164189
+                            }
+                          },
+                          "Text": "Chon"
+                        }
+                      ],
+                      "id": {
+                        "value": "e98a6dbf-9737-4063-b937-b2c181d07f85"
+                      },
+                      "name": "PackA11",
+                      "pos": {
+                        "UDim_X": {
+                          "Offect": 438
+                        }
+                      },
+                      "size": {
+                        "UDim_X": {
+                          "Offect": 178.22750067709
+                        },
+                        "UDim_Y": {
+                          "Offect": 178.23244953151
+                        }
+                      }
+                    }
+                  ],
+                  "id": {
+                    "value": "9613ea32-63e0-4cd8-85ec-e5feb99a389e"
+                  },
+                  "pos": {
+                    "UDim_X": {
+                      "Scale": 0.1
+                    },
+                    "UDim_Y": {
+                      "Scale": 0.1
+                    }
+                  },
+                  "rowSize": 3,
+                  "size": {
+                    "UDim_X": {
+                      "Offect": 616
+                    },
+                    "UDim_Y": {
+                      "Offect": 240
+                    }
+                  },
+                  "Space": {
+                    "x": 10,
+                    "y": 80
+                  },
+                  "WindowTouchThroughMode": "MousePassThroughAlpha"
+                }
+              ],
+              "id": {
+                "value": "86d4dcd9-adc6-4400-b429-55c6354898a2"
+              },
+              "name": "ShopLook",
+              "pos": {
+                "UDim_X": {
+                  "Offect": -43.076481324868
+                },
+                "UDim_Y": {
+                  "Offect": -1.9235791289172
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 695.38628473877
+                },
+                "UDim_Y": {
+                  "Offect": 533.40893289444
+                }
+              }
+            }
+          ],
+          "id": {
+            "value": "091a5c59-c7a6-4638-ad7a-b4bbc4f4e847"
+          },
+          "name": "Main",
+          "pos": {
+            "UDim_X": {
+              "Offect": -0.1585769831893
+            },
+            "UDim_Y": {
+              "Offect": -0.2275758225102
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 1138.6068538187
+            },
+            "UDim_Y": {
+              "Offect": 610.98127959666
+            }
+          }
+        }
+      ],
+      "id": {
+        "value": "dc9a14ee-7dde-43ac-a8ce-3e0f6c1685a7"
+      },
+      "pos": {
+        "UDim_X": {
+          "Offect": -2.3917911052648
+        },
+        "UDim_Y": {
+          "Offect": 45.448508262634
+        }
+      },
+      "size": {
+        "UDim_X": {
+          "Offect": 1289.7462899681
+        },
+        "UDim_Y": {
+          "Offect": 687.5079457758
+        }
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "c89b8350d60442dc368d08e7f67bc0e6",
+      "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
+    },
+    "VERSION": "0.22"
+  }
+}

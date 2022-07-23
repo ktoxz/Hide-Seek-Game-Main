@@ -1,0 +1,335 @@
+{
+  "data": {
+    "md5": "c842e008b095df37e94933df2b42f3bd",
+    "path": "asset/GUI/LobbyUI/ChooseMap.layout",
+    "root": {
+      "children": [
+        {
+          "__OBJ_TYPE": "StaticImage",
+          "anchor": {
+            "HorizontalAlignment": "Centre",
+            "VerticalAlignment": "Centre"
+          },
+          "id": {
+            "value": "f4f812bb-b077-48ed-8ce7-a4b78ef3f13e"
+          },
+          "Image": {
+            "asset": "asset/Texture/Gui/progressbar_top.png"
+          },
+          "name": "Background",
+          "pos": {
+            "UDim_X": {
+              "Offect": -1.5000004768355
+            },
+            "UDim_Y": {
+              "Offect": 0.3920292854337
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 1194.62422812
+            },
+            "UDim_Y": {
+              "Offect": 579.63205099107
+            }
+          }
+        },
+        {
+          "__OBJ_TYPE": "StaticImage",
+          "Alpha": 0.997,
+          "anchor": {
+            "VerticalAlignment": "Centre"
+          },
+          "children": [
+            {
+              "__OBJ_TYPE": "Button",
+              "anchor": {
+                "HorizontalAlignment": "Centre",
+                "VerticalAlignment": "Bottom"
+              },
+              "Font_size": 20,
+              "id": {
+                "value": "89cad13a-1fe1-448e-bc65-31ad072361e2"
+              },
+              "name": "MapName",
+              "pos": {
+                "UDim_X": {
+                  "Offect": 0.9989392456117
+                },
+                "UDim_Y": {
+                  "Offect": 1.2780590057537
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 160.35493826867
+                },
+                "UDim_Y": {
+                  "Offect": 66.162277698517
+                }
+              },
+              "Text": "MapName"
+            },
+            {
+              "__OBJ_TYPE": "StaticText",
+              "anchor": {
+                "VerticalAlignment": "Bottom"
+              },
+              "Font_size": 30,
+              "HorzFormatting": "CentreAligned",
+              "id": {
+                "value": "23314f3d-53fc-443a-9026-25cdfce36b0d"
+              },
+              "name": "VoteCount",
+              "pos": {
+                "UDim_X": {
+                  "Offect": 30.467219928968
+                },
+                "UDim_Y": {
+                  "Offect": 106.19871602497
+                }
+              },
+              "Text": "Vote count",
+              "VertFormatting": "CentreAligned"
+            }
+          ],
+          "id": {
+            "value": "c350730a-a2d2-4054-a5f2-a6cd8eebbb6e"
+          },
+          "name": "Map1",
+          "pos": {
+            "UDim_X": {
+              "Offect": 76.146049885956
+            },
+            "UDim_Y": {
+              "Offect": -55.049351553233
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 317.36847615243
+            },
+            "UDim_Y": {
+              "Offect": 399.79597151281
+            }
+          }
+        },
+        {
+          "__OBJ_TYPE": "StaticImage",
+          "Alpha": 0.997,
+          "anchor": {
+            "VerticalAlignment": "Centre"
+          },
+          "children": [
+            {
+              "__OBJ_TYPE": "Button",
+              "anchor": {
+                "HorizontalAlignment": "Centre",
+                "VerticalAlignment": "Bottom"
+              },
+              "Font_size": 20,
+              "id": {
+                "value": "6a315e1d-4025-4cad-b7c6-c5000b732801"
+              },
+              "name": "MapName",
+              "pos": {
+                "UDim_X": {
+                  "Offect": 0.9989392456117
+                },
+                "UDim_Y": {
+                  "Offect": 1.2780590057537
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 160.35493826867
+                },
+                "UDim_Y": {
+                  "Offect": 66.162277698517
+                }
+              },
+              "Text": "MapName"
+            },
+            {
+              "__OBJ_TYPE": "StaticText",
+              "anchor": {
+                "VerticalAlignment": "Bottom"
+              },
+              "Font_size": 30,
+              "HorzFormatting": "CentreAligned",
+              "id": {
+                "value": "a646a5de-8f5b-4233-b32e-1add3b7e2493"
+              },
+              "name": "VoteCount",
+              "pos": {
+                "UDim_X": {
+                  "Offect": 30.467219928968
+                },
+                "UDim_Y": {
+                  "Offect": 106.19871602497
+                }
+              },
+              "Text": "Vote count",
+              "VertFormatting": "CentreAligned"
+            }
+          ],
+          "id": {
+            "value": "1d85d2d9-44ee-4cd8-8fc9-255179003959"
+          },
+          "name": "Map2",
+          "pos": {
+            "UDim_X": {
+              "Offect": 442.48129455932
+            },
+            "UDim_Y": {
+              "Offect": -57.44138093609
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 317.36847615243
+            },
+            "UDim_Y": {
+              "Offect": 399.79597151281
+            }
+          }
+        },
+        {
+          "__OBJ_TYPE": "StaticImage",
+          "Alpha": 0.997,
+          "anchor": {
+            "VerticalAlignment": "Centre"
+          },
+          "children": [
+            {
+              "__OBJ_TYPE": "Button",
+              "anchor": {
+                "HorizontalAlignment": "Centre",
+                "VerticalAlignment": "Bottom"
+              },
+              "Font_size": 20,
+              "id": {
+                "value": "b3917e82-1a72-4806-a81e-e7e31294c369"
+              },
+              "name": "MapName",
+              "pos": {
+                "UDim_X": {
+                  "Offect": 0.9989392456117
+                },
+                "UDim_Y": {
+                  "Offect": 1.2780590057537
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 160.35493826867
+                },
+                "UDim_Y": {
+                  "Offect": 66.162277698517
+                }
+              },
+              "Text": "MapName"
+            },
+            {
+              "__OBJ_TYPE": "StaticText",
+              "anchor": {
+                "VerticalAlignment": "Bottom"
+              },
+              "Font_size": 30,
+              "HorzFormatting": "CentreAligned",
+              "id": {
+                "value": "6b599eef-2a9b-4282-8b7e-6e739e796d82"
+              },
+              "name": "VoteCount",
+              "pos": {
+                "UDim_X": {
+                  "Offect": 30.467219928968
+                },
+                "UDim_Y": {
+                  "Offect": 106.19871602497
+                }
+              },
+              "Text": "Vote count",
+              "VertFormatting": "CentreAligned"
+            }
+          ],
+          "id": {
+            "value": "1c57a8a3-073e-43e9-ae46-5f5c28eb5782"
+          },
+          "name": "Map3",
+          "pos": {
+            "UDim_X": {
+              "Offect": 803.25050343183
+            },
+            "UDim_Y": {
+              "Offect": -55.049347120707
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 317.36847615243
+            },
+            "UDim_Y": {
+              "Offect": 399.79597151281
+            }
+          }
+        },
+        {
+          "__OBJ_TYPE": "Button",
+          "anchor": {
+            "HorizontalAlignment": "Centre",
+            "VerticalAlignment": "Centre"
+          },
+          "Font_size": 50,
+          "id": {
+            "value": "f7e2516e-8815-4eb9-ab1a-4bfee389e4d3"
+          },
+          "name": "Close",
+          "pos": {
+            "UDim_X": {
+              "Offect": -590.45905785933
+            },
+            "UDim_Y": {
+              "Offect": 23.84
+            }
+          },
+          "size": {
+            "UDim_X": {
+              "Offect": 72.22407054901
+            },
+            "UDim_Y": {
+              "Offect": 115.6756978035
+            }
+          },
+          "Text": "->"
+        }
+      ],
+      "id": {
+        "value": "223cbd5c-b8b6-43b8-90f7-742292e1868d"
+      },
+      "pos": {
+        "UDim_X": {
+          "Offect": 52.423780441285
+        },
+        "UDim_Y": {
+          "Offect": 83.443706035612
+        }
+      },
+      "size": {
+        "UDim_X": {
+          "Offect": 1200.6543550494
+        },
+        "UDim_Y": {
+          "Offect": 583.70860671993
+        }
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "c842e008b095df37e94933df2b42f3bd",
+      "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
+    },
+    "VERSION": "0.22"
+  }
+}
